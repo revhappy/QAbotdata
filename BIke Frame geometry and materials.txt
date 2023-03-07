@@ -1,0 +1,984 @@
+Bicycle frame materials – explained
+17/10/2022 by Relja Novović
+Bicycle frame materials explained (carbon, steel, aluminium, titanium...)
+In this article I’ll explain the popular bicycle frame materials (carbon, steel, aluminium, titanium…). Explaining all their pros, cons and limits. With an introductory part that explains stiffness, strength and other important material properties. The article is long, but right below is the table of contents, so you can skip to the parts that interest you. Each chapter has a link to go back to the contents list, marked as: “– T.O.C –.”
+Note: If you are interested in this topic, I would recommend a series of articles written by Scot Nicol. They are a lot better written and more fun to read than this article. It’s called: “Metallurgy For Cyclists.” My article is strictly structured, for easier reference (and answering the frequently asked questions), but Scot Nicol’s article gets the point across a lot more effectively (in my opinion).
+
+Contents:
+
+Introduction
+(Bicycle frame) material properties
+2.0. (metal) Alloys
+2.1. Density (“specific mass/weight”)
+2.2. Stiffness
+2.3. Elongation – Ductility – plastic deformation
+2.4. Tensile strength
+2.5. Fatigue strength – endurance
+2.6. Toughness
+2.7. Property conclusion – revelation
+Bicycle frame design – basics
+Steel is real
+4.1. Steel alloy naming conventions
+4.2. Steel as a bicycle frame material
+4.3. Broadening the view
+4.4. Steel frames – myth-busting
+Aluminium (aluminum, or alloy as the Americans say)
+5.1. Processing aluminium and its alloys
+5.2. Aluminium alloy naming conventions
+5.3. Aluminium as a bicycle frame material
+5.4. Aluminium frames – myth-busting
+Titanium
+6.1. Titanium as a bicycle frame material
+6.2. Titanium frames – myth-busting
+Carbon fiber
+7.1. Composite materials
+7.2. Carbon fiber as a bicycle frame material
+7.3. Carbon fiber frames – myth-busting
+Conclusion – author’s opinion
+Afterword
+Sources
+
+1. Introduction
+This article is for my own reference – putting all the knowledge I’ve gained over the years on materials and frames in one place. Will it help anyone else? I don’t know. Maybe.
+
+In addition to curiosity (and faster solving of crossword puzzles 🙂 ), this could help you tell marketing buzz, from the useful attributes. I’ve noticed that many bicycle manufacturers resort to various tricks to convince customers of things that aren’t really true – without technically telling any lies (very cunning)!
+
+Disclaimer: I’m not a mechanical engineer. In spite of all the learning, reading, experimenting, and a vast bicycle riding and repairing experience, all the info provided here is to be taken as: “to the best of my knowledge.” No more, no less. Similarly to my article on bicycle bearing greases.
+
+I already wrote about bicycle frame geometry, which affects riding characteristics, such as handling, and comfort. I also wrote in great detail on how bicycle frame geometry affects comfort.
+
+Here I basically tackle the problem: how to make a bicycle frame to be as light as possible, while remaining strong enough (and, if possible, comfortable). I’ll explain metals in great detail, but don’t worry, before the end I’ll address carbon too.
+– T.O.C –
+
+
+2. (Bicycle frame) material properties
+Sales people often “throw” terms like: “this frame is laterally stiff, and vertically compliant”. With a lot of similar marketing nonsense. How can you tell which of those are really true, and which ones just sound good? It starts by understanding material properties – and their relation to bicycle frame design. I’ll explain these in plain English – though it might look a little bit scary at the start. 🙂
+
+There are three groups of material properties: chemical, physical, and mechanical.
+
+Chemical material properties are:
+corrosion resistance, resistance to acids and alkalis, reactivity, solubility, irradiation resistance, and electrochemical potential.
+Physical properties are:
+colour, density, magnetic permeability, thermal expansion, and electrical conductivity.
+Mechanical properties:
+hardness, toughness, stiffness, elongation, tensile strength, shear strength, and fatigue limit (i.e. endurance limit).
+I’m sure that you already know at least some of these properties, but no worries if you don’t. For now it is important to remember that the properties are mutually correlated. Just as a man who is very heavy (fat), usually ends up being very slow too – a material that is very hard, is usually very stiff as well.
+
+Some properties are less important when designing bicycle frames. Electrical conductivity, for example: it can save you one wire for lights, for bicycles with a dynamo-hub, but apart from that, it’s not really important.
+
+Others, like the chemical property: “corrosion resistance”, are very important. You don’t want a frame that will completely rust through after a few ours in open air. This doesn’t need much explanation. Same can be said for water solubility.
+
+Yet, for making bicycle frames, the most interesting properties are the mechanical ones. In addition to the physical property “density”. So let’s explain those properties that matter (most) for bicycle frame building. Before diving into that, let’s first explain what metal alloys are:
+– T.O.C –
+
+
+2.0. (metal) Alloys
+Simply put, an alloy is a mixture of metals. To be more precise: it is a controlled, calculated addition of various elements to a metal, in order to improve it (make it stronger, or more rust resistant etc.).
+
+The added elements can be metallic. For example: “aluminium 6061” alloy has about 1% of magnesium, and 0.6% of silicon added, to make it a lot stronger than the pure aluminium. Even though all those added metals are rather soft and weak in their pure (unmixed) state. It’s magical! 🙂
+Elements can also be non-metallic. Carbon is added to iron to make an alloy you’ve heard about, called “steel” (YouTube link… couldn’t resist 🙂 ). Making the iron a bit more brittle, but a lot stronger (there’s often a trade-off).
+Note: In USA, people often say “alloy”, when they mean an “aluminium alloy”. Goes both for casual talk, and bicycle sales/marketing companies. They also say “aluminum”, when they mean “aluminium”, but that’s less confusing in this context. To avoid misunderstanding: when I say “alloy”, I mean the mixture explained in this chapter. Keep that in mind when reading this article, and bicycle (frame) brochures.
+– T.O.C –
+
+
+2.1. Density (“specific mass/weight”)
+How much does a material weigh for a given volume. A handful of styrofoam is lighter than a handful of (iron) nails.
+
+It is expressed in grams per a cubic centimetre (or per litre, which is 1,000 cubic cm) – “g/cc“.
+For those living on the wrong side of the large pond, who are more familiar with the imperial system: my sincere apologies. I’d rather dig a water canal, than re-calculate stuff into the imperial (blame the French 🙂 ).
+
+A few examples:
+
+Aluminium 6061 alloy had a density of 2.7 g/cc.
+Alloy steel AISI 4130 weighs 7.85 g/cc. Almost 3 times heavier than aluminium!
+Titanium 3AL-2.5V alloy weighs roughly in between the above two, at 4.48 g/cc.
+These density ratios are easy to remember, and important for this topic. Roughly, as far as density (“weight”) goes:
+Aluminium = 1/2 Titananium density, and 1/3 Steel density
+
+Why doesn’t an aluminium frame weigh less than half of a steel frame? Because of the other properties, like strength, and stiffness. To understand, read on.
+
+What we really measure is mass. Weight we measure when standing on a scale, is mass drawn by the Earth’s gravity. But that’s a topic for a separate post. For this one, we will say that weight = mass (sorry, Sir Newton).
+– T.O.C –
+
+
+2.2. Stiffness
+Stiffness = how difficult it is to bend a material. We measure & compare stiffness using “modulus of elasticity“, also called “Young’s modulus“.
+
+In plain English, if you wish to sound smart:
+
+Don’t say that rubber is elastic, or not very stiff.
+Say that rubber has a small “Young’s modulus”, or a small “modulus of elasticity”.
+It is expressed in Pascals, i.e. Newtons per square metre: Pa (Pa = N/m2).
+Americans use Pascals per square inch: PSI.
+
+In practice, Young modulus is usually noted using Giga-Pascals: GPa.
+GPa = one million Pa (i.e. 109 Pa).
+
+Examples:
+
+Aluminium has the Young modulus of 70 GPa.
+Steel has around 200 GPa – almost 3 times as stiff!
+Titanium has around 100 GPa.
+Young’s modulus does NOT change with heat treatment of a metal, or an alloy. For example:
+
+You can take aluminium, add magnesium and silicon (among other things) – and get 6061 aluminium alloy.
+If you choose to add zinc instead of those, you’ll get 7075 aluminium alloy.
+Aluminium alloy 6061 has 69 GPa, while 7075 has about 72 GPa.
+However, no matter how you heat treat 6061, you won’t make it stiffer (or less stiff). Same goes for the other metals and alloys.
+Heat treatment is important to relieve material stress after welding, it can affect tensile strength and ductility, but it doesn’t affect stiffness. If you wish to sound smart & technical: elastic properties of metals aren’t changed by heat treatment – only plastic properties.
+– T.O.C –
+
+
+2.3. Elongation – Ductility – plastic deformation
+Be brave, it’s not too scary, and won’t hurt. Just a few more terms. 🙂 Here goes:
+
+Elongation is how much can you stretch/elongate a material before it breaks off. It is expressed in percent – by how many percent does a material elongate before breaking.
+It’s a measure of a material’s ductility. What on Earth is Ductility?! Hold my beer:
+Ductility is how much a material can plastically deform before before fracturing.
+Plastic deformation?! Aren’t we talking about metals?
+Plastic deformation is when you bend, or dent a material so much, that it remains deformed (doesn’t spring back to the old shape).
+
+Let’s make this simpler:
+Clay is very ductile. Glass is relatively strong, but not very ductile (and it doesn’t elongate much). For a bicycle frame, you want a material that will bend before it breaks (shatters). More ductile is better. 🙂
+
+Tube of the aluminium alloy 6061 has elongation of about 17%.
+Steel alloy 4130 elongates to 25%, but steel alloys are generally in the 10 to 15% range.
+Elongation varies with the type of alloy, and can be further altered with heat treatment.
+Titanium ranges from 15 to 30%.
+Elongation and ductility are very important, and I’ll mention them when discussing particular frame materials later on.
+– T.O.C –
+
+
+2.4. Tensile strength
+How strong is a material. Generally: the stronger – the better. But you have to mind the other attributes (can’t be too britle for example). It’s called tensile strength because it is measured by pulling a material apart. This test shows the limits where the material reaches its yield point (called yield strength), and the (ultimate) tensile strength.
+My primitive test of a 2 mm wide stainless steel spoke’s tensile strength.
+
+Yield strength is the amount of tension beyond which the material is plastically deformed.
+Tension is calculated as: force by the starting cross-section area (Fe / S0).
+Ultimate tensile strength is the peak tension a material will take (usually near the fracture point).
+Tensile strength is noted as σM (RM according to the current standard – editor’s remark)- and is expressed in megapascals (MPa).
+
+Aluminium alloy 6061 has the ultimate tensile strength of 310 MPa, and yield strength of 270 MPa.
+Steel alloy 4130 has the ultimate tensile strength of about 560 MPa, and yield strength of 460 MPa.
+Steel is about twice stronger than aluminium.
+Titanium alloy 3AL-2.5V has the ultimate tensile strength of 620 MPa, and yield strength of 500 MPa.
+This is a very important property. It’s a fact that bicycles frames are seldom exposed to such pulling when in use. However, high tensile strength usually means the material also has high compressive strength, stiffness, and ductility.
+Do you know which bicycle frame material is an exception to this rule?
+– T.O.C –
+
+
+2.5. Fatigue strength – endurance
+In order to understand fatugue strength, we must first understand the material fatigue. Definition sounds scary: material fatigue is gradual structural damage/cracking caused by long term periodic alternate cycling loads (strains).
+
+In plain English: when you ride on bumpy roads, frame tubes are slightly bending, then straightening. Goind back and forth as you go over each bump. We are talking about the elastic deformation range – i.e. not the forces strong enough to bend/break material in one, or just 2-3 “attempts”. Material fatigue damage starts on a microscopic level, i.e. with micro-cracks in the material’s structure. These cracks grow/spread with each load cycle, until they reach a critical length and the material breaks during the first following load. With metal frames, these cracks can’t be noticed when riding, but they usually can be seen on the outside, like hairline thin cracks.
+
+How do we measure this? We take a frame, put it in a machine that simulates pushing on the pedals while pulling on the bars (for example), and see how many hundreds of thousands pedal strokes it takes for a frame to start cracking. Since bicycles are used in different ways, and neither are all the roads equally bumpy, nor all the riders equally heavy and strong, such tests are very innacurate and unrealistic – but it’s as good as it gets.
+
+To make things more interesting, steel and titanium have a threshold, such that any force lower than the threshold can exert an unlimited number of cyclic loads, without the material breaking… ever! This threshold is called fatigue limit (it’s usually between 0.35 and 0.6 times tensile strength).
+Before you rush to get a “steel is real” calf tattoo, I suggest you read this until the end.
+
+Other metals (aluminium, magnesium) don’t have this limit. No matter how small a cyclic load is, after enough load cycles, the material will break. However – when a frame is designed properly, it takes millions of loads to break it (say 300 years of avid cycling).
+
+Also: the greater a force is, i.e. the closer it is to the yield point, the fewer load cycles are needed to break a material. These characteristics are shown using S-N curves:
+
+S-N curves for steel and aluminium
+S-N curves for steel and aluminium
+Source: Wikipedia
+Picture 1
+– T.O.C –
+
+
+2.6. Toughness
+How much energy can a material absorb, even with plastic deformations, until it breaks.
+A tough material is more ductile, hence more likely to deform, than to break into pieces. Toughness is an important property, but isn’t very simple to analyze. It requires a balance of strength and ductility.
+
+Toughness is the opposite of stiffness. A very stiff material will not deform/bend much before breaking – it has very low toughness. The same goes vice-versa, for the materials with a very high toughness.
+
+For bicycle frame tubes it’s better if they can deform before breaking, because this serves as a warning to the rider they are about to give. Remember this. I’ll get back to it when I talk about carbon fiber frames.
+
+Toughness is usually measured using Charpy V-notch test (CVN), which returns the total absorbed energy amount, in kilojoules (kJ).
+It depends on the alloy, and can further be altered with different heat treatments.
+– T.O.C –
+
+
+2.7. Property conclusion – revelation
+There is no perfect material. Each has advantages and disadvantages, compared to the other materials.
+
+However, if we look at the materials often used for making bicycle frames: a good frame can be made out of any material, but using a different approach. Different materials have different failure modes. They require different methods of machining and bonding. They have different strength, stiffness, etc.
+
+I’ll talk about each popular bicycle frame material, explaining its specifics, advantages and disadvantages, but first a few words on design:
+– T.O.C –
+
+
+3. Bicycle frame design – basics
+I’ll touch on the topic of frame design, because it’s important for understanding the frame material use. The emphasis is on weigth and strength.
+To understand how tube angles and dimensions affect ride characteristics and handling, se the article: Bicycle Frame Geometry.
+
+If you look at bicycle frames, you will notice that most models are based on two triangles:
+
+Bicycle frame with its two triangles
+Bicycle frame with its two triangles
+Picture 2
+Over a hundred years of experience have taught us that this construction gives the highest possible strength, with the thinnest (and lightest) possible tubes. At least when it is required to carry rider’s weight, pedalling force, pulling on the bars, and handle the road bumps.
+
+It’s also important to note that tubes get a lot stronger and stiffer when their diameter is greater – even if their walls get thinned down! This is the basic principle for making the frames strong, yet light. Diameter increase boosts a tube’s strength and stiffness a lot more than thinning the walls reduces them.
+
+One caveat: if a tube’s walls get too thinned down, it will too easily buckle, like a can of beer – and it will become impossible to weld it (i.e. connect it with other tubes).
+
+That’s putting it very briefly and simply. For more details see the article: Bicycle frame design – explained.
+Now let’s start with the fun stuff! 🙂
+– T.O.C –
+
+
+4. Steel is real
+Steel has been used for making bicycle frames a lot longer than any other currently modern material. It is an iron alloy. Its chemical symbol is Fe (from Latin: “ferrum”).
+
+Iron-based metals and alloys are thus called ferrous metals.
+They contain iron (Fe), they are magnetic, and they are prone to rust (requiring a protective coating).
+Metals and alloys without iron, like aluminium and titanium, are called non-ferrous metals.
+They don’t contain iron, aren’t magnetic and aren’t prone to rust.
+Stainless steel could more precisely be called: less prone to rusting steel.
+Non-ferrous metals also oxidize (rust), but that stops by the forming of a protective outer oxide layer, preventing further rusting – unlike with ferrous metals. With a note that the salty slush of winter roads can eat through the aluminium oxide layer, so aluminium frames can’t be considered rust-proof in winter riding conditions (a good protective paint coat is necessary).
+
+There’s plenty of iron in the Earth’s crust (unlike chromium and molybdenum), but it’s never found in pure form, only in ores such as: magnetite (Fe3O4), pyrite (FeS2), siderite (FeCO3), hematite (Fe2O3), etc. These are all called iron ores. Getting pure iron out of these ores is a rather complicated process. It took our ancestors several thousands of years to figure it out, after which they switched from bronze to the new magical material en masse.
+
+Steel? 24h bike-kitchen says:
+
+You heat iron (ore) to be hotter than Scarlett Johansson.
+Substract a few ingredients.
+Add a few other ingredients.
+And you get steel! 🙂
+(a very oversimplified explanation, but that’s what it boils down to)
+Depending on the exact ingredients, different kinds of steel alloys are made. Steel alloy 4130 is better known among the cyclists as “chrome-moly” and it contains: about 1% of chromium, 0.8% manganese, 0.3% carbon, 0.3% molybdenum, 0.2% silicon, and less than 0.05% of sulphur and phosphorus. Over 95% of it is pure iron.
+
+The 4130 steel alloy is good for bicycle frames because it is relatively easily weldable and formable while being quite tough, ductile and strong. We’ll call it CrMo from now on, even though there are other chrome-molybdenum steel alloys that aren’t 4130.
+The technically correct designation for this alloy is “AISI 4130,” or, by European standard: “25 CrMo4.”
+
+Unlike that, AISI 1020 alloy, also known as “plain carbon steel,” has a lot lower strength and is seen on cheaper frames.
+– T.O.C –
+
+
+4.1. Steel alloy naming conventions
+Standards for noting steel alloys were defined by the American Iron & Steel Institute (AISI) and the Society of Automotive Engineers (SAE).
+
+Notes have 3 to 5 digits.
+The first number specifies the type of steel.
+The second number notes different major elements, depending on the alloy type.
+For example, with 4130 alloy, the numbers say that it has: 1% of chrome and 0.3% of molybdenum.
+The last two numbers present the percentage of carbon, noted in 1/100 of a percent.
+For example: alloy 1020 has 0.2% of carbon.
+Tables 1 and 2 explain these notes, for those interested. If you aren’t interested, skip the tables.
+
+SAE designation	Type
+1xxx	Carbon steels
+2xxx	Nickel steels
+3xxx	Nickel-chromium steels
+4xxx	Molybdenum steels
+5xxx	Chromium steels
+6xxx	Chromium-vanadium steels
+7xxx	Tungsten steels
+8xxx	Nickel-chromium-vanadium steels
+9xxx	Silicon-manganese steels
+SAE steel alloy designations
+Table 1
+AISI Steel		Specifications
+Carbon Steel	10XX	Plain carbon steel , Mn 1.00% max
+ 	11XX	Resulfurized free cutting
+ 	12XX	Resulfurized – Rephosphorized free cutting
+ 	15XX	Plain carbon steel, Mn 1.00-1.65%
+Manganese Steel	13XX	Mn 1.75%
+Nickel Steel	23XX	Ni 3.50%
+ 	25XX	Ni 5.00%
+Nickel Chromium Steel	31XX	Ni 1.25%, Cr 0.65-0.80%
+ 	32XX	Ni 1.75%, Cr 1.07%
+ 	33XX	Ni 3.50%, Cr 1.50-1.57%
+ 	34XX	Ni 3.00%, Cr 0.77%
+Molybdenum Steel	40XX	Mo 0.20-0.25%
+ 	44XX	Mo 0.40-0.52%
+Chromium Molybdenum Steel	41XX	Cr 0.50-0.95%, Mo 0.12-0.30%
+Nickel Chromium Molybdenum Steel	43XX	Ni 1.82%, Cr 0.50-0.80%, Mo 0.25%
+ 	47XX	Ni 1.05%, Cr 0.45%, Mo 0.20-0.35%
+Nickel Molybdenum Steel	46XX	Ni 0.85-1.82%, Mo 0.20-0.25%
+ 	48XX	Ni 3.50%, Mo 0.25%
+Chromium Steel	50XX	Cr 0.27-0.65%
+ 	51XX	Cr 0.80-1.05%
+ 	50XXX	Cr 0.50%, C 1.00% min
+ 	51XXX	Cr 1.02%, C 1.00% min
+ 	52XXX	Cr 1.45%, C 1.00% min
+Chromium Vanadium Steel	61XX	Cr 0.60-0.95%, V 0.10-0.15%
+Tungsten Chromium Steel	72XX	W 1.75%, Cr 0.75%
+Nickel Chromium Molybdenum Steel	81XX	Ni 0.30%, Cr 0.40%, Mo 0.12%
+ 	86XX	Ni 0.55%, Cr 0.50%, Mo 0.20%
+ 	87XX	Ni 0.55%, Cr 0.50%, Mo 0.25%
+ 	88XX	Ni 0.55% Cr 0.50% Mo 0.35%
+Silicon Manganese Steel	92XX	Si 1.40-2.00%, Mn 0.65-0.85% Cr 0.65%
+Nickel Chromium Molybdenum Steel	93XX	Ni 3.25%, Cr 1.20%, Mo 0.12%
+ 	94XX	Ni 0.45%, Cr 0.40%, Mo 0.12%
+ 	97XX	Ni 0.55%, Cr 0.20%, Mo 0.20%
+ 	98XX	Ni 1.00%, Cr 0.80%, Mo 0.25%
+AISI steel alloy designations
+Table 2
+The end of tables and continuation of our story. 🙂
+– T.O.C –
+
+
+4.2. Steel as a bicycle frame material
+I’ve already explained there’s no perfect bicycle frame material. When explaining steel, I’ll compare it to other popular frame building metals: aluminium and titanium.
+For simplicity and clarity, comparison with carbon and other “exotic” materials will be done when I speak about those materials.
+
+Let’s see how the steel compares to the other materials, based on the properties defined in chapter 2.
+
+Density
+This is the main downside of steel. With 7.85 g/cc, steel is three times heavier than aluminium, and twice heavier than titanium.
+If density were the only important property, no one on Earth would be making steel frames. (Un)fortunately, it’s not that simple and there are some other very important properties of bicycle frame materials, where steel shines (pun intended) – like the following:
+
+Stiffness
+“Who were you calling fat, Aluminium and Titanium?!” 🙂
+Steel’s Young’s modulus is around 200 GPa. It’s three times as stiff compared to aluminium, and twice as stiff compared to titanium.
+
+These stiffness ratios correlate with the density ratios, so stiffness-to-weight ratios are almost identical for these three materials.
+
+Then why are aluminium frames usually about 30% lighter than the comparative steel frames – and often feel stiffer?
+This is discussed in the article about bicycle frame design, in chapter: “Tubes: strength and weight.” Here I’ll explain it only briefly.
+I’ll use an example to explain this:
+
+Let’s take one tube with a diameter d1, and another that is twice as thick – let’s name it d2 diameter. And let’s say their walls are of the same thickness.
+d2 will be roughly twice heavier, but also about 8 times stiffer than d1! Stiffness increases exponentially with an increase in diameter – by the third power.
+(d2-d1)3
+If we take d2 tube now and reduce its wall thickness by half, it will roughly weigh the same as d1. What about stiffness? Stiffness will still be about 4 times greater. That’s a reduction from 8 times to “only” 4 times stiffer, but still not bad – for the same weight.
+That’s how frame designers play with diameters and wall thickness – up to a point. Once the ratio of a tube’s diameter to its wall thickness is over 70-to-1, the tube becomes too prone to buckling – like a beer can. Also, a certain wall thickness is necessary for welding and joining the tubes.
+
+Because steel is three times heavier than aluminium, an aluminium tube can have walls that are double the thickness of the same-diameter steel tube, and it will still be about 30% lighter! This enables aluminium tubes to be a lot wider and stiffer than steel tubes – while still having walls thick enough to prevent buckling, and being lighter at the same time.
+
+Titanium? It’s somewhere in between steel, and aluminium – in terms of density, and stiffness, which also affects its tube design options.
+
+I hope I’ve explained this clearly. Take your time – read the example above again if you need to. It’s less complicated than it sounds.
+
+Elongation – ductility
+For steel tubes usually used for making bicycle frames, this varies from 9 to 15%, depending on the alloy (25% for our CrMo steel alloy) and its heat treatment.
+
+The lower this value is, the more likely it is that the material is brittle. If this value is below 10%, the material needs to be more closely inspected: especially for fatigue strength and toughness – to confirm it isn’t too brittle for making a bicycle frame.
+Charpy impact test is probably suitable for this, but the correct test choice depends on the particular material being tested. Elongation can be determined with a straining test, from yield, and tensile strength.
+
+Tensile strength
+There are great differences in the ultimate tensile strength between various steel alloys (not to mention the other metals). Generally speaking, steel alloys are more than twice stronger than the aluminium alloys. Some steel alloys are stronger than the popular CrMo (with 560 MPa), but they aren’t used for making bicycle frames because of some of their other downsides.
+
+Yes, we can say that steel is very strong, but just like it’s greatest weight doesn’t automatically discard it as a frame material, so its strength doesn’t recommend it as the perfect material – at least not of and by itself. More on this in chapter 4.3. Broadening the view
+
+Fatigue strength – endurance
+Steel has a fatigue limit. This means: if you design the frame so that its peak loads are below a certain magnitude (relative to its tensile strength) – it will last forever! 🙂
+
+Repairs
+Many shops all around the world are quite good at welding steel. If you need a repair in a pinch (bicycle touring etc.), steel is as good as it gets.
+– T.O.C –
+
+
+4.3. Broadening the view
+Have I managed to convey how important it is to consider all the properties of a material – as a whole? People (especially those from the marketing departments 🙂 ) often “jump” when they see a great property of a material (super strong, super light etc.) and think: “WOW, we should make all the frames only from this material, it’s grrreat!” For a material to be bicycle-frame-suitable, it needs to strike the right balance of several different properties. In addition to the above listed properties, price and availability are also important. We mustn’t forget the ease of machining and connecting (either by welding, or gluing, as is the case with carbon).
+
+Of all the materials, steel has the longest tradition of being used for bicycle frame building. It has survived aluminium’s “challenge” at the end of the XX, and the start of the XXI century, but is now facing an even tougher challenge from carbon fiber.
+– T.O.C –
+
+
+4.4. Steel frames – myth-busting
+Steel frames are regarded as ever-lasting (durable, “indestructible”), very comfortable, but heavy. As I’ve tried to explain in the previous sections, this all depends on the particular steel alloy choice, and the frame design (tube diameters, wall thickness etc.).
+
+Yes, because they have a fatigue limit, steel frames can be made to flex a lot without breaking, but past a certain point, flex can hamper good handling, control, and soak up too much pedalling energy – we don’t want that in a good frame.
+
+I rode some very harsh (stiff) steel frames. High-end steel frames aren’t lighter than high-end aluminium ones, but are still surprisingly light – they come close. Poorly designed, and/or poorly manufactured frames can crack, even if they are made of steel.
+
+Another myth is that steel frames go softer ower the years – or that they “go dead,” brittle and inflexible. Remember our story about stiffness and Young’s modulus. It doesn’t change – period.
+Technically, a steel frame can become more brittle (if not designed/manufactured properly), but this doesn’t make it infelxible – Young’s modulus doesn’t change. It might break, eventually, but won’t be noticeably less flexible.
+– T.O.C –
+
+
+5. Aluminium (aluminum, or alloy as the Americans say)
+In the previous chapter I often used aluminium for making comparisons, so we already know a few things about it. Due to high public demand, I’ll write a bit more about this material (I’m joking, no one reads this… seriously).
+
+The year is 1983: men are men, women are women, and Cannondale starts making some good quality road bikes out of aluminium. About 20 years later, aluminium becomes the most widely used material for high-end bicycle frames – until the emergence of carbon-fiber, but more on that later.
+– T.O.C –
+
+
+5.1. Processing aluminium and its alloys
+Aluminium is the most abundant metal in the Earth’s crust. It is taken from the bauxite ore. Getting the pure aluminium out of the bauxite ore is a rather expensive process, so aluminium isn’t super cheap in spite of its abundance. It all starts with a very complicated thermal-chemical process called Bayer process (chemists and mech. engineers say that understanding the process takes a lot of Bayer’s aspirin intake – because it’s such a headache to grasp), and ends with a kind of an electrolysis (if you think your electric bills are over-the-roof, pay a visit to your local aluminium manufacturer 🙂 ).
+
+The exact starting procedure depends on the type of alloy, and the choice of the next processing procedure (which also depends on the type of alloy). There are basically two choices here:
+
+Cast aluminium
+To oversimplify it: aluminium is molten, then poured it into a mold, either into the final product shape, or into a billet (which is basically a long, thick rod).
+Wrought aluminium
+Molten aluminium is cast into a mold, then rolled, forged, or extruded into the final shape.
+Each of these processes has its pros and cons. Without going into many details, wrought aluminium is more expensive, and generally better suited for building bicycle frames (it has better mechanical properties, structural integrity, surface finish etc.).
+
+Whether working with cast, or wrought aluminium alloys, they usually get further tempered:
+
+Heat treating
+The finished frame is heated to about 500 °C, for a few hours. Then it is quenched, by cooling it in air, or water, depending on the alloy. Then comes aging.
+Aging (a.k.a. precipitation hardening)
+It can be done in room temperature, but with aluminium it goes a lot faster if it’s done in an oven. Only, instead of pepper and salt, you add some alloying elements, and bake it at around 150 °C for about two-and-a-half days (so don’t start this on a day before Christmas 🙂 ). When done at an elevated temperature, it’s called “artificial aging.”
+Work hardening (a.k.a. strain hardening, or cold working)
+Often done at room temperature, using brute force, such as: rolling, straightening, flattening, and drawing.
+Cast alloys generally aren’t work hardened.
+Many aluminium alloys must be tempered after the tubes are welded together. Alloy 6061 requires heat treatment after welding, otherwise it will be too soft and break at the welds. Alloy 7005 doesn’t require heat treatment, but requires aging after welding.
+– T.O.C –
+
+
+5.2. Aluminium alloy naming conventions
+Aluminium alloys have different designations, depending on whether they are cast, or wrought. In either case, there is another notation added at the end, describing the type of tempering (see table 5).
+
+Cast aluminium alloy designation
+It uses three digits, with a fourth after a decimal point (xxx.x).
+The first digit (Xxxx.x) notes the principal (main) alloying element (see table 3 below).
+Second and third digits (xXX.x) are arbitrarily chosen to identify the specific alloy from the series.
+Digit after the decimal point marks: 0 – casting, 1 or 2 – ingot
+A capital letter before the digits notes a modification of a specific alloy, like: A356.0
+
+Alloy series	Principal alloying element
+1xx.x	Min. 99% aluminium
+2xx.x	Copper
+3xx.x	Silicon+copper and/or magnesium
+4xx.x	Silicon
+5xx.x	Magnesium
+6xx.x	Unused series
+7xx.x	Zinc
+8xx.x	Tin
+9xx.x	Other elements
+Cast aluminium alloy designations
+Table 3
+Wrought aluminium alloy designation
+Four digits are used.
+The first digit (Xxxx) notes the principal (main) alloying element (see table 4 below).
+The second digit (xXxx), if it isn’t zero indicates a modification of the noted alloy.
+Third and fourth digits (xxXX) are arbitrary numbers for noting a specific alloy in the series.
+Series 1xxx is the exception, where the last two digits note how many hundreds of a percent of aluminium above 99% the alloy contains. It’s clearer with an example: 1350 contains at least 99.50 % of aluminium.
+
+Alloy series	Principal alloying element
+1xxx	Min. 99% aluminium
+2xxx	Copper
+3xxx	Manganese
+4xxx	Silicon
+5xxx	Magnesium
+6xxx	Magnesium and silicon
+7xxx	Zinc
+8xxx	Other elements
+Wrought aluminium alloy designations
+Table 4
+Temper designations
+Marked with a capital letter, followed by one to four digits.
+The letter notes the type of tempering.
+Numbers explain the basic procedure.
+
+Letter / number	Meaning
+F	As fabricated. No special control over thermal or strain hardening conditions is employed.
+H	Strain Hardened. Strengthened through cold-working.
+H1	Strain hardened only.
+H2	Strain hardened and partially annealed.
+H3	Strain hardened and stabilized.
+H4	Strain hardened and painted.
+Hxx	Degree of strain hardening
+Hx2	Quarter hard
+Hx4	Half hard
+Hx6	Three-quarters hard
+Hx8	Full hard
+Hx9	Extra hard
+O	Annealed. Heated to produce the lowest strength condition to improve ductility and dimensional stability.
+T	Thermally Treated. Heat-treated, sometimes with supplementary strain-hardening.
+T1	Naturally aged after cooling from an elevated temperature shaping process, such as extruding.
+T2	Cold worked after cooling from an elevated temperature shaping process and then naturally aged.
+T3	Solution heat treated, cold worked and naturally aged.
+T4	Solution heat treated and naturally aged.
+T5	Artificially aged after cooling from an elevated temperature shaping process.
+T6	Solution heat treated and artificially aged.
+T7	Solution heat treated and stabilized (overaged).
+T8	Solution heat treated, cold worked and artificially aged.
+T9	Solution heat treated, artificially aged and cold worked.
+T10	Cold worked after cooling from an elevated temperature shaping process and then artificially aged.
+Tx, or Txx	Stress relief process
+Tx51	Stress relieved by stretching
+Tx52, or Txx52	Stress relieved by compressing.
+W	Solution Heat-Treated. An unstable temper applicable only to alloys which age spontaneously at room temperature after solution heat-treatment
+Aluminium alloy temper designations
+Table 5
+– T.O.C –
+
+5.3. Aluminium as a bicycle frame material
+What are the pros and cons of using aluminium to make bicycle frames? Let’s see its properties.
+
+Density
+With 2.7 g/cc, it’s just around 1/3 the weight of steel! That’s a great start for aluminium, but what about the other important properties?
+
+Stiffness
+Young modulus of aluminium is about 70 GPa, which is only about 1/3 the stiffness of steel. Now, we know that with an increase in a tube’s diameter, its stiffness increases exponentially. Being light, aluminium is suitable for making large-diameter tubes, with walls thick enough to prevent buckling, that still aren’t heavy. That’s how aluminium frames are made to be sufficiently stiff.
+
+Furthermore, it’s a common myth that alu-frames are too stiff, rough! That depends on the model and design. It is true that aluminium tubes can’t flex very much, for they might suffer from material-fatigue failure. But that doesn’t mean they necessarily have to be too stiff. That’s down to tube length, diameter, wall thickness, i.e. complete frame design.
+
+Next challenge?
+
+Elongation – ductility
+How much can aluminium elongate, or bend before breaking? Not nearly as much as steel! 6 to 12 % is quite low, compared to 10 to 25% of steel alloys.
+
+With this in mind, in previous chapters I explained how important it is to consider all the properties when assessing a material. If elongation is low, we should take a look at the strength, endurance, and toughness. We’ll get back to this by the end of this chapter.
+
+Tensile strength
+Aluminium has the tensile strength of around 300 MPa – that is roughly 1/2 the strength of steel, but that can be compensated by using larger diameter tubes with thicker walls. Remember: it’s still only 1/3 the weight of steel.
+
+Fatigue strength – endurance
+Aluminium is in a bit of a trouble here as well. It has no fatigue limit. No matter how small a load, after a certain, finite number of load cycles, aluminium will break. So now we have endurance problems on top of the low elongation!? How do we solve this?
+
+Good engineering, i.e. design. In addition to playing with tube diameters and their wall thickness, there’s a thing called butted tubes. Here’s a crude sketch of those:
+
+Butted, double butted, triple butted tubes...
+Butted, double butted, triple butted tubes…
+Picture 3
+It is possible to add more wall thickness to the tube parts that take more stress – usually at the ends, near the places where the tubes are joined with each other. This puts more weight only in places where it is critical, and enables a distribution of stresses to the other, less loaded, less critical parts of the tubes.
+
+Making the most of it
+Alu-frame designers have another ace up their sleeve: low density (“weight”). Using larger diameter tubes, with thicker walls where it’s needed, one can design a tube with a static strength up to three times greater than that of a similar steel bicycle frame tube. And the resulting alu-frame will still be about 30% lighter!
+
+With this kind of a “safety margin”, aluminium frame will still have a finite endurance, but that limit could go to about 500 years of avid cycling – not bad?
+
+Repairs
+Usually, after welding, the whole frame needs to be heat-treated. The number of shops that are good at welding aluminium is a lot smaller compared to steel welding shops.
+
+Final notes
+I almost forgot: another advantage of aluminium is that it doesn’t rust in contact with water and air. To be more precise: when you scratch the paint on your aluminium frame, a thin outer layer of oxide is formed, protecting any further damage – which is not the case with steel (even the stainless steel can rust, only much slower).
+For us that cycle in the winter: salty slush abundant on winter roads will eat aluminium, unless it’s protected with a coat of paint (see the 3rd paragraph in chapter “4. Steel is real” for more details).
+Another problem with aluminium is galvanic corrosion. It happens when aluminium is in contact with steel, which is used for most bolts, even on bicycles. Using anti-seize pastes can prevent this.
+– T.O.C –
+
+
+5.4. Aluminium frames – myth-busting
+“Light, but they give a harsh ride” is what you’ll often hear about alu-frames. It is true that aluminium doesn’t have a fatigue limit, so the frames have to be designed for not too much flexing – or they will break. Yet, it is possible to design a frame so that it flexes more at the parts that are less critical, under less stress: like making thinner walls in the tubes’ mid-section, and thicker walls near the ends.
+
+So not all the aluminium frames are too stiff – it depends on the design. Many are – because that’s easier and cheaper to design and manufacture, but that’s not aluminium’s fault.
+
+“They last only 5 years,” or some other arbitrary number. Read the previous chapter (5.3.) again, to understand why this is nonsense. A poorly designed frame can crack in less than a year, but a good one can last longer than its rider.
+– T.O.C –
+
+
+6. Titanium
+The sole name sounds special and powerful – starting with the word: “TITAN!” 🙂
+OK, laugh now about the other, shorter word it starts with.
+
+Titanium is relatively abundant in Earth’s crust, but the process of extracting the metal from its ore is expensive, hence the steep price tag. Price aside, titanium looks beautifully, with a shiny, silver colour, and it doesn’t rust (it would have been a great choice for a winter bike, if it weren’t that expensive).
+
+Titanium alloys commonly used for making bicycle frames are: 3AL-2.5V, and 6AL-4V
+I’m using the capital “L” for clarity, proper notation is with the lower case – which looks like the capital “i.” “3Al” stands for 3% of aluminium. “2.5V” stands for 2.5 % of vanadium.
+
+I will explain below the important properties of titanium, and its pros and cons when it comes to building good bicycle frames.
+– T.O.C –
+
+
+6.1. Titanium as a bicycle frame material
+As when we talked about steel, and aluminium, here too we’ll consider all the important properties – starting with:
+
+Density
+In the red corner, weighing 4.48 g/cc – titanium! 🙂 It is almost twice heavier than aluminium, but still about half the weight of steel.
+
+Stiffness
+Young’s modulus of titanium is around 100 GPa, so half as good as steel. But! Being half the weight, its stiffness-to-weight ratio is very similar.
+
+Elongation – ductility
+Here is where titanium shines – its elongation goes up to 30%, which is about double compared to most steel alloys, and almost three times better than most aluminium alloys. Titanium can bend a lot before breaking!
+
+Truth be told, alloys used for bicycles are about half as flexible (15%), but that’s still very good, especially when we consider the next property:
+
+Tensile strength
+Titanium alloy 3AL-2.5V has the ultimate tensile strength of 620 MPa. Like an employed single mother of three: stronger than steel!
+
+It is important to note that this strength is achieved without risking elongation. Steel and aluminium alloys that are nearly this strong are very, very brittle – so not good for bicycle frames.
+
+Fatigue strength – endurance
+Like steel, titanium has a fatigue limit. If you design the frame so that its peak loads are below a certain point (relative to its tensile strength) – it will never break.
+
+If we stopped here, someone could believe that titanium is the perfect material. This is often abused in marketing. You just name the pros – and stop. You haven’t told any lies… technically.
+
+The dark side of titanium
+I’ve already explained how important it is to look at all the properties of a material. What are titanium’s shortcomings?
+
+First what I already mentioned: a very high price. Both extracting titanium from its ore, and its processing are costly.
+
+Also, titanium is difficult to weld and machine. Even the slightest imperfection during the welding procedure can cause catastrophic failures at the welds. Machining titanium requires a lot of knowledge, experience and the correct tools.
+
+If we say that steel has to loose weight, aluminium has to become stronger, titanium would have to stiffen up. To be more precise: titanium is lacking in stiffness-to-weight ratio. Larger tube diameter does increase stiffness, but it also increases weight. Thinner walls reduce weight, but if they are too thin, the frame will easily buckle. Aluminium, that weighs half as much, can afford to have larger tube diameter with thick enough walls. When it comes to titanium, thick enough walls end up weighing too much.
+
+A way to overcome this is butting the tubes (thinner walls in the less-stressed mid-section, with thicker walls at the ends). In spite of this, high-end titanium frames are often not lighter than high-end steel frames.
+
+Repairs
+For all I know, very few shops have the tools, skills and knowledge to properly weld a titanium frame. If you need a quick repair on the road… good luck. 🙁
+– T.O.C –
+
+
+6.2. Titanium frames – myth-busting
+For titanium frames, you’ll often hear one, or several of these claims: they are lighter than steel, stronger than steel, or they have a softer (“magic-carpet-like”) ride. Of all these, the only truth is that a titanium frame can be designed to be lighter and softer (“more comfortable”) than a steel frame, but at the cost of being too weak, too flexible, even under stronger pedalling torques.
+– T.O.C –
+
+
+7. Carbon fiber
+Before the story about the frames, a bit of theory first.
+– T.O.C –
+
+
+7.1. Composite materials
+Carbon fiber frames are often advertised as “composite”. That’s a bit like advertising steel, aluminium, or titanium frames as: “metal.”
+
+What are composite materials?
+
+A: It is a material made by combining at least two different materials, usually with different physical and chemical properties, so that it is better than any of the combined materials by themselves (otherwise we wouldn’t have combined them).
+B: Unlike the situation with mixtures, solutions, and alloys – with composite materials: the combined materials remain unchanged.
+
+In plain English:
+A: When you poor concrete over a steel-bar cage, you get a composite material called: “reinforced concrete.” This material is a lot stronger than the “ordinary” concrete (in terms of tensile strength), while being faster and easier to make buildings out of, compared to steel.
+B: If you use a large enough hammer (and work really hard), you will be able to break off all the concrete, and “liberate” the steel cage.
+
+What are the advanced composite materials (ACM)?
+
+Those are materials with fibers of exceptional strength and stiffness, bound with a weaker matrics.
+The fibers can be: silicon carbide, quartz, ceramic, polyethylene, boron, Kevlar (aramid), or carbon!
+
+Defining terms I’ll be using below:
+Fiber – a single strand of the reinforcing material.
+A lot of parallel fibers are bound with glue, or a matrix.
+Ply – one layer of such bound fibers.
+Laminate – multiple plies laid one over the other.
+
+Plies can be laid in various angles, to form a laminate of the desired characteristics. I.e. the fibers of one ply can be parallel to the fibers of the adjacent ply, or at an angle (like 45°).
+
+In other words: depending on how plies are laid in a laminate, it will have different properties – even if the same type of plies (with the same fibers) are used, in a laminate of the same shape, weight and wall thickness. Changing the way plies are laid can alter stiffness, as well as failure modes and fracture stresses. We’ll use this knowledge later.
+– T.O.C –
+
+
+7.2. Carbon fiber as a bicycle frame material
+As when talking about metals, I’ll start with listing the material properties. First a “huge disclaimer:” in previous chapter (7.1.) I explained how ply laying pattern affects laminate properties. In addition to that, for making “carbon frames”, different types of fibers are used, bonded with different types of glue (epoxy-resin usually). Also, when I talk about laying the plies, it is oversimplified, for easier understanding. So all the values provided here are given very provisionally, as a rough-guide.
+
+Density
+Carbon fiber weighs around 1.55 g/cc – almost half the weigth of aluminium, the lightest of all the bike-frame metals mentioned so far.
+
+Stiffness
+Carbon’s Young’s modulus is around 130 GPa. Comparing it to the above noted metals, only steel is stiffer. However, because of a very low density, carbon fibers have about three times better density-to-weigth ratio, compared to steel.
+
+However, if we rotate the ply so that we measure the modulus by acting perpendicularly to the fibers direction, we only get 10 GPa!
+To make matters worse, Young’s modulus is solid in the range of 0 to 30°. Just as you go past the 30°, it drastically drops, giving very low values in the 30+ to 90° range.
+
+Bicycle frames take both longitudinal, and torsional loads. To account for this, carbon-frame manufacturers lay plies in different fiber directions – usually adding 45° plies to the base plies with 0° “fiber angle” when forming a laminate.
+
+Elongation – ductility
+Elongation (a measure of material’s ductility), is like a sort of a safety barrier. If it’s low, one must very carefully observe all the other material’s properties, to make sure it’s not too brittle for making a bicycle frame. Carbon fiber has very, very small elongation – below 2 %. The term “Achilles’ heel” comes to mind. It’s worse than aluminium!
+
+As I mentioned: plies can be laid so that fibers of one ply are at a 45° angle relative to the fibers of the adjacent ply. This makes the situation a bit less catastrophic, but we’re still dealing with a low-ductility material.
+
+Similarly to aluminium, the way to really work around this limitation is to make a structure that is a lot stronger than necessary – making a safety margin. Carbon is light enough for such a frame (stronger and heavier than absolutely necessary) to still be really light.
+
+Tensile strength
+Carbon has a very high ultimate tensile strength of about 2,500 MPa – which is about five times stronger than steel – but only if you pull on the fibers longitudinally. This presents another challenge when designing carbon fiber frames, and choosing in which fiber-direction to lay the plies.
+
+Compressive strength
+With metals, tensile strength is a good indicator of compressive strength. Carbon fibers are more like bicycle wheel spokes: they take a lot of tension, but if you try compressing them, they will easily bend.
+
+Epoxy-resin is of crucial importance, both for bonding the carbon fibers, and for providing compressive strength to the entire structure.
+
+Fatigue strength – endurance
+Another parallel with aluminium: carbon has no fatigue limit, so it is necessary to make frames a lot stronger than necessary, in order to mitigate this to a long enough time period. How long is this? We’ll talk about that a bit later.
+
+Carbon fiber – THE GOOD
+When designing a metal, i.e. non-composite material tube, we can play with shape, wall thickness, and diameter. When using carbon fiber, on top of all that, we also get to play with the direction and angles of fibers within each ply – effectively changing the material properties as it suits us.
+
+If you need a reminder, re-read the paragraphs on stiffness, above. Carbon can enable making a frame that is “longitudinally stiff, and vertically compliant,” i.e. that soaks up bumps reasonably well, but doesn’t flex too much under strong pedalling, and steers properly.
+
+All that while being very light, and relatively long lasting. I would now add that carbon fiber is the material of the future, but – that’s already here! 🙂
+
+Carbon fiber – THE BAD
+More freedom means more responsibility. Designers of carbon frames have to know exactly what they are doing. Number of plies, direction of fibers, choice of fibers and epoxy-resin drastically affect material properties – and that’s depending on the direction of the loads. It’s not uniform, like the above discussed metals! Bicycle frames take all sorts of loads when they are ridden – in tension, compression, and torsion.
+
+Laying of plies needs to be done carefully, patiently – by hand. Which drastically increases the production costs, and increases the likelihood of human error (“you’re not yourself when you’re hungry”). So carbon is pricey, and has a variable manufacturing quality.
+
+Carbon fiber – THE UGLY
+If you make a frame using any of the above discussed metals, and it starts failing, you will always see the cracks on the outside, long before a frame completely fails.
+In addition to that, a crack will appear only in one part of a tube, or one weld. So even if you ignore any noticeable crack and keep riding until the frame fails, you will most likely be able to safely come to a stop (OK, if the fork fails in a bend, on a steep descend, you probably won’t, but you get the idea?).
+
+With carbon fiber it’s completely different. Let’s see first how carbon fiber can fail. There are four basic ways, one not excluding the others:
+
+Breakage of fibers.
+Debonding of individual fibers from the epoxy-resin.
+Delamination – debonding (peeling) of one (or more) ply from the other(s).
+Matrix cracking – i.e. cracking of the epoxy-resin that holds the fibers together and gives compressive strength to the whole structure.
+What can cause these failures?
+
+Hard enough hit with a rock during a ride might not leave much noticeable damage, but cause damage inside the laminate. With metals: if there’s no visible dent, or a cut, it’s all good. But not with carbon.
+Manufacturing (human) error, like not eliminating all the air trapped between the plies, can cause matrix cracking over time. Or wrinkled plies.
+Galvanic corrosion. Carbon reacts with metals in this way, and most frames have some metal in them – like water-bottle cage screw interface, if nothing else.
+Paint damage. It can allow UV rays do degrade the epoxy-resin. Or water to come in, and start causing delamination.
+Poor design – without enough “safety margin.” See above under “Elongation – ductility” and “Fatigue strength – endurance.”
+All this would not be so terrible if it were not for the following fact:
+
+Weakening usually happens on the inside, without noticeable external signs. Spreading over large sections of the material. When it finally fails, carbon fails suddenly, and catastrophically. This mode of failure is a huge problem.
+
+Is there a way to predict this?
+You can read on various methods all over the Internet. Like tapping a coin along the tubes and listening for changes in sound’s pitch. Still, the only really reliable way is an X-ray, or an ultrasound scan. This ain’t cheap!
+
+How often should I do these scans?
+To make sure there aren’t any manufacturing errors – right after purchase. As far as I know, even very expensive frames of renowned manufacturers aren’t scanned after production – especially not every frame.
+
+Hard knock, or a fall? The only way to be really sure is to scan it.
+
+To avoid any misunderstanding: carbon fiber frames are often surprisingly tough and strong, while being light. The reason for scanning is their mode of failure – sudden, and total.
+
+One more thing. If you made a carbon fiber frame to be just slightly lighter than an aluminium frame, for example, that frame would be extremely strong (and long lasting, if you design and build it properly). However, what sells well are super-light frames. Manufacturers often go with lower safety margins, in order to reduce weight.
+
+In addition to that, if you go and buy a high-end aluminium road bike (frame) today, it will most likely come with a carbon fiber fork – whether you like it, or not.
+
+I hate sounding like some tin-foil fear-monger. And I’d really love to say: “just buy carbon frames of renowned manufacturers and don’t worry.” But, for all I know, saying that would not be true.
+
+Repairs
+Because of its failure mode, it is risky repairing carbon frames, without a scan to determine the exact amount and type of damage. This is generally not something that can be done quickly, while on the road.
+
+
+Update 2022:
+
+According to some experts in this video, carbon fiber has a “graceful failure” (at roughly 30:02), which contradicts my conclusions stated in this article and I think that’s worth noting and further looking into:
+
+Your Carbon Fibre Bike Won’t Last Forever
+– T.O.C –
+
+
+7.3. Carbon fiber frames – myth-busting
+“They are the best, but expensive” is what many cyclist think about carbon fiber frames. As I’ve tried to explain here, a high quality frame, that is comfortable, light and handles well, can be made out of many other materials. Carbon is phenomenal, but it too has flaws, alongside its advantages.
+– T.O.C –
+
+
+8. Conclusion – author’s opinion
+Every frame material has its pros and cons. Good design can bring out the best a material can offer, while (partially) overcoming its shortcomings.
+
+Sales people often state only pros of what they are selling, while without looking at all the aspects and properties, one can’t get a clear picture of how good, or bad a frame is. Don’t draw conclusions from partial information, or even from trying one, or several poor quality frames.
+
+A good frame, that is pretty light, and long lasting, can be made using any of the above mentioned materials. None of them is perfect, but none of them is bad either.
+
+However, many manufacturers try to make a frame “just another 100 grams lighter,” so it’s not heavier than the competition’s. Low weight, in addition to shiny finish, is what sells high end bicycles and frames. To make things worse, it seems to me that the cycling industry invests in marketing, a lot more than it invests in engineering.
+
+As a result of all this, frames are often designed without enough “safety margin.” We mustn’t forget the production and quality control costs cutting. So it’s not surprising that many frames fail relatively quickly… which is great for making more sales. Convincing people to replace a frame after two, or five years, as a matter of precaution – that’s a capitalist’s dream! 🙂
+
+But – there still are people who know and want to make good quality frames. Don’t let their material of choice make you think their frames can’t be good.
+– T.O.C –
+
+
+9. Afterword
+All this is my wise friend Goran’s fault! One day, he asked me: “Which bicycle should I buy, can I see that on your website?” I started explaining about the pros and cons, different types, price ranges… To which he replied: “I don’t care about Young’s modulus, tell me what you recommend I buy.”
+
+OK – I concluded that my website definitely needs more articles for “normal people.” 🙂
+And I decided to write a few bike recommendations, with brief reviews.
+
+However, as I was about to recommend a bicycle with a carbon fiber fork, I thought: I should link to a page explaining the pros and cons of carbon, just so that people know – what they decide then is up to them. I started Googling and mostly found marketing… talk.
+
+No problem, I thought, I’ll write a short article about carbon fiber and that’s done. Well… my sneaky brain itched: “How can you write about carbon without comparing it to other popular materials?! And how can you make a comparison, if you don’t explain Young’s modulus, failure modes and other stuff?”
+
+I realised a very long article will follow. Just… wait. Long ago I read a brilliant series of articles on this topic. What was it called? Yes: “Metallurgy For Cyclists”, by Scot Nicol. I had saved that link, somewhere… here, click… “Page Not Found.”
+
+I Googled some more then, and only found fragments of that brilliant article series. One or two parts at most, with links that didn’t work, and poor text formatting. “OK, I’ll have to start typing…”
+
+This whole article is inspired and based on that brilliant series of articles. I made this primarily for myself, the way I like it: in great detail, and well structured. However, for normal people, I believe Scot Nicol’s version is a lot better written and easier, more fun to read. If anyone knows where that article series is published on-line, complete, please let me know – and do read it. I think it should be preserved.
+Update: with permission, the series is re-published on BikeGremlin, to the best of my Googling ability, under the original title: “Metallurgy For Cyclists.”
+– T.O.C –
+
+BikeGremlin search...
+Home » Frame » Bicycle frame » Bicycle frame geometry
+Bicycle frame geometry
+08/06/2022 by Relja Novović
+Bottom bracket drop (relative to the wheels axes)
+This post explains the term: “bicycle frame geometry”. Frame geometry consists of important attributes like fork trail, rake, wheelbase etc. All those will be defined, explained, along with how they affect bicycle’s handling and ride characteristics. Separate posts explain bicycle frame comfort as well as how to set a comfortable bicycle riding position. Newer post explains the effective bicycle frame size: Bicycle frame “Stack” and “Reach” explained.
+
+Table Of Contents (T.O.C.):
+
+Bicycle frame
+Steering – front part of the frame
+2.1. Head tube angle
+2.2. Fork rake
+2.3. Fork trail
+2.4. Steering recapitulation
+Chainstay length
+Wheelbase
+Bottom bracket drop (BB drop)
+Seat tube angle
+Seat tube length
+Head tube length
+
+1. Bicycle frame
+Frame is the spine and the heart of a bicycle. All other parts can easily be swapped, but the frame is what determines what combination of parts a bicycle can accept, what kind of use bicycle is best for and what seating positions can be achieved on a bicycle.
+
+For example, frame choice determines what kind of brakes a bicycle can accept (disc, v-brake, or road bike brakes), what the maximum tyre width is, whether mudguards and racks can be mounted etc. This is easy to tell when choosing a frame – what kind of mounts it has. Also, producers mark these things in prospects (e.g. “disc brake frame” etc.).
+
+Another thing that frame choice influences is seating position, comfort and bike handling. However, it is a lot less straight forward (than disc and mudguard mounts) and this post will explain how geometry influences ride and fitting characteristics. For an explanation of how frames are made to be strong, yet light, see the post: Bicycle frame design explained.
+
+When it comes to bicycle frame geometry, good manufacturers usually provide a table with lengths and angles. For example:
+
+Frame geometry All the important dimensions and angles are noted.
+Frame geometry
+All the important dimensions and angles are noted.
+As it is shown in the table above, geometry differs (more or less) for each frame size, even with the same model, of the same producer. Frame geometry is especially important if carrying loads on the front is planned (e.g. front panniers), since steering is usually calculated with expected front load in mind.
+
+Text will give common values for a typical touring and a typical road bike frame. Both frames sized for an effective top tube length of 57 cm.
+
+Effective top tube length is explained in this article: How to choose a correct frame size.
+
+– T.O.C. –
+
+
+2. Steering – front part of the frame
+Front part of the bicycle, along with the fork, has three important factors:
+
+Head tube angle
+Fork rake (it will be explained)
+Fork trail (also 🙂  )
+2.1. Head tube angle
+Angle is measured compared to the horizontal, with both wheels of planned size (usually the same size). In mechanics literature, this is called “rake”, while in cycling literature, “rake” is used for referring to fork offset (explained in chapter 2.2.).
+
+Head tube angle
+Head tube angle
+The closer head tube angle is to vertical (90 degrees), the quicker the steering. However, if it is too vertical, bicycle will be twitchy, unstable.
+The sharper the angle, the more effort it takes to steer the bicycle. But slack head tube angle also improves stability.
+Touring bikes that carry a lot of weight take advantage of more stable, 71 degree head tube angles. Road bikes that favour quick responsive steering and are not loaded usually settle for 73 degrees.
+
+– T.O.C. –
+
+2.2. Fork rake
+Distance for which the front wheel dropout is moved forward from the head tube axis. Forks are usually angled forward a bit, or have a curve to the front near the bottom. In mechanics literature, this is called “fork offset”, while “rake” is used to refer to what is called “head tube angle” in cycling literature – there are many such misnomers in cycling literature and jargon.
+
+Fork rake. Distance of the front wheel dropout from an (imaginary) axis going from the middle of the head tube.
+Fork rake.
+Distance of the front wheel dropout from an (imaginary) axis going from the middle of the head tube.
+Increasing the rake makes steering faster
+Decreasing it makes steering slower
+Rake influences distance of the front wheel from the pedals and wheelbase length. It also affects steering but by increasing/decreasing trail, not directly, which will be explained.
+
+Touring bikes often have a lot of rake, in order to increase wheelbase as well as to avoid toe overlap.
+
+Typical values are 45 mm for touring and 40 mm for road bicycles.
+
+Still, since rake is in conjunction with trail (and head tube angle), touring bikes end up having slower steering compared to road bikes, in spite of having more rake. Explanation follows now:
+
+– T.O.C. –
+
+2.3. Fork trail
+Fork trail is a result of head tube angle, fork rake and front wheel diameter. Front wheel diameter increase, also increases trail, while other two factors have reverse influence, e.g. bigger rake results in smaller trail.
+
+Trail length lets us know how quickly a bike steers. The other factors mostly just influence steering through affecting trail – indirectly.
+
+Less trail results in faster steering
+More trail results in slower steering
+Both bicycles in the picture have the same head tube angles and wheel diameters. The fork on the left has less bend, that is smaller rake. This results in left bike having more trail.
+Both bicycles in the picture have the same head tube angles and wheel diameters.
+The fork on the left has less bend, that is smaller rake.
+This results in left bike having more trail (and slower steering).
+Touring bicycles have more trail, in order to slow the steering and make heavily loaded bicycle more stable on a fast descend for example. The problem with having more (or too much) trail is difficulty to keep a straight line when riding at slow speed. Also, it can cause bike to steer from side to side when pedalling while standing. Heavy front load on touring bikes often compensates for this.
+
+Typical trail values are around 65 mm for touring and 55 mm for road bikes.
+
+– T.O.C. –
+
+2.4. Steering recapitulation
+Slacker head angle and more trail results in slower steering. Practical for carrying loads on a bike, while not very convenient for a light bicycle.
+
+Less trail with a steeper head angle results in quicker steering. Good for light racing bicycle, inconvenient for carrying load.
+
+Somewhere in between those extremes falls the steerer geometry of most cyclocross and hybrid bicycles.
+
+In the article about bicycle forks I also briefly discussed how fork length affects steering and frame geometry.
+
+– T.O.C. –
+
+
+3. Chainstay length
+Chainstay length
+Chainstay length
+Chainstay length influences 3 things:
+
+Steering – longer chainstay increases wheelbase length and makes a bicycle more stable, but also makes steering (and maneuvering) slower.
+Comfort – longer chainstay also increases comfort (detailed explanation of bicycle frame comfort). Short chainstay gives an effect of sitting directly on top of the rear wheel, while a long one makes rider sit half way between two wheels, making the ride more comfortable.
+Luggage carrying capacity – with a longer chainstay, panniers mounted on the rear rack will be further from the pedals. Very important for big footed riders.
+Typical values are 46 cm for touring and 41 cm for road bikes.
+
+– T.O.C. –
+
+
+4. Wheelbase
+Longer wheelbase makes bike more stable, more comfortable, but makes steering slower.
+
+Touring bikes have slack head angle, long fork rake, and long chainstay which gives them long wheelbase. Road bikes have it all the opposite way.  🙂
+
+Wheelbase
+Wheelbase
+The influence of wheelbase on steering is almost as big as the fork trail and angle.
+
+Typical values are 1060 mm for touring bikes and 995 for road bikes
+
+– T.O.C. –
+
+
+5. Bottom bracket drop (BB drop)
+Bottom bracket drop (relative to the wheels axes)
+Bottom bracket drop
+(relative to the wheels axes)
+Because saddle height is set relative to the pedals, lower bottom bracket results in the saddle being placed lower (for the same rider height), which results in a lower centre of gravity.
+
+Lower centre of gravity is always good – it gives better stability and maneuverability. However, since bicycle is leaned into turns, this matters a lot less than for cars.
+
+What does matter is ground clearance. Frames built for off road riding often have lower BB drop (hence a higher bottom bracket) to prevent it from catching bumps and rocks. Also, when pedalling in a turn, a bicycle is less likely to strike the ground with a pedal if the BB is higher.
+
+For city riding, lower BB enables the rider to put a foot down wile seated and waiting at a traffic light.
+
+All other things being equal (wheelbase, tube material and thickness), a smaller BB drop (therefore higher BB) makes shorter chainstay, shorter seat tube and down tube. This results in a lighter and stiffer frame. 
+
+Values differ, depending on the frame purpose, but some middle, often used value is around 7 cm.
+
+– T.O.C. –
+
+
+6. Seat tube angle
+This depends mostly on frame size, since optimal pedalling position does not change that much between bikes.
+
+Seat tube angle - Measured from horizontal line
+Seat tube angle
+– Measured from horizontal line
+For frames “sized” 57 cm, usual angle is around 73 degrees.
+
+– T.O.C. –
+
+
+7. Seat tube length
+Often stated as frame “size”. One of the least important factors in frame geometry. Value is important only to shorter riders to know whether they can stand over the frame.
+
+– T.O.C. –
+
+
+8. Head tube length
+If a frame is meant for a more upright riding position, head tube is longer. Touring bikes often have around 20 cm, while road bikes go around 15 cm. Head tube length changes with frame size.
+
+My video explainig and showing the basics differences in road, and trekking bicycle frame geometry, along with the basics of fitting (i.e. setting up a comfortable riding position):
+
+Bicycle frame geometry and bicycle fit basics explained [1018]
+– T.O.C. –
+
+Recommended
+Recommended Content
+Bicycle frame design explained
+Read More 
+Recommended Content
+Headsets [01] Names of fork and headset parts
+Read More 
+Recommended Content
+Bicycle fork types explained
+Read More 
+CategoriesBicycle frame
+Tagsframe
+Bicycle braking technique
+Which type of bicycle suits my needs?
+7 thoughts on “Bicycle frame geometry”
+
+Mathias
+01/07/2020 at 21:05
+Head tube length impacts the stiffnes (accuracy/ precision) of the steering. Top tube and down tube hold head tube like two branches and they form angle: obtuse one or acute one. It’s the same principle with lateral stiffnes of wheels and angle where spokes come in/out. Supsension forks make it difficult, because You need to have room for front fork squeezing to the bottom of the stroke. Industry tries to run away buy using larger bearings in headtube but is only partial solution.
+
+The most extreme head tube lenght is seen in Pedersen bicycles:
+https://upload.wikimedia.org/wikipedia/commons/2/2e/Dursley_Pedersen_ca_1910_bicycle.jpg
+
+Some motorcycles also use little tricks to extend effective head tube lenght, for example Tele-lever suspension:
+[
